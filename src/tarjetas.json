@@ -1,0 +1,28 @@
+{
+    "tarjetas":[
+        {
+            "title": "task 1",
+            "responsible": "juan",
+            "description": "this is a text",
+            "priority":"low"
+        },
+        {
+            "title": "task 2",
+            "responsible": "dina",
+            "description": "this is a text",
+            "priority":"medium"
+        },
+        {
+            "title": "task 3",
+            "responsible": "gabriel",
+            "description": "this is a text",
+            "priority":"high"
+        },
+        {
+            "title": "task 4",
+            "responsible": "ana",
+            "description": "this is a text",
+            "priority":"low"
+        }
+    ]
+}
