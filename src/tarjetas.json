@@ -4,25 +4,29 @@
             "title": "task 1",
             "responsible": "juan",
             "description": "this is a text",
-            "priority":"low"
+            "priority":"low",
+            "id": "0"
         },
         {
             "title": "task 2",
             "responsible": "dina",
             "description": "this is a text",
-            "priority":"medium"
+            "priority":"medium",
+            "id": "1"
         },
         {
             "title": "task 3",
             "responsible": "gabriel",
             "description": "this is a text",
-            "priority":"high"
+            "priority":"high",
+            "id": "2"
         },
         {
             "title": "task 4",
             "responsible": "ana",
             "description": "this is a text",
-            "priority":"low"
+            "priority":"low",
+            "id": "3"
         }
     ]
 }
